@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T22:03:52.772Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lBVG3agESxGGnJqafRBJ" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T04:13:54.907Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qnykjz96-lkH9eDOBBHf" version="24.4.2" type="github">
   <diagram id="QIX9GbS7zDG_VDZPxvCC" name="Page-1">
-    <mxGraphModel dx="1122" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1060" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="6" value="Experienced Worker" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_128x128.png" parent="1" vertex="1">
           <mxGeometry x="22" y="122.19999999999999" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="Newcomers(foreigner)" style="image;html=1;image=img/lib/clip_art/people/Worker_Black_128x128.png" parent="1" vertex="1">
+        <mxCell id="7" value="Newcomers" style="image;html=1;image=img/lib/clip_art/people/Worker_Black_128x128.png" parent="1" vertex="1">
           <mxGeometry x="33.5" y="490" width="56.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9" value="Knowledge File" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/File.svg;" parent="1" vertex="1">
@@ -279,9 +279,12 @@
           <mxGeometry x="176" y="22.129999999999995" width="46" height="31.71" as="geometry" />
         </mxCell>
         <mxCell id="h8Yu-P1zWOgnS6LmTdgL-105" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2" y="268.97" width="408" height="310.03" as="geometry">
+          <mxGeometry x="2" y="268.97" width="408" height="321.03" as="geometry">
             <mxRectangle x="580" y="108.76" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="h8Yu-P1zWOgnS6LmTdgL-115" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;(non-native speaker&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="h8Yu-P1zWOgnS6LmTdgL-105">
+          <mxGeometry x="6.069999999999993" y="294.87" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h8Yu-P1zWOgnS6LmTdgL-108" value="" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="560" y="39.97" width="264" height="570.03" as="geometry">
